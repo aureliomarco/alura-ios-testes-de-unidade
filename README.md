@@ -5,9 +5,7 @@ Esse é meu código produzido durante o curso.
 :spiral_notepad: :pencil2: Anotações durante o curso, podem ser vistas [AQUI](https://marcoaurelio.slite.com/api/s/note/VBsto6h9Ei4gNhonwKfnQd/iOS-Testes-de-Unidade-e-TDD)
 
 ## Aula 01 - Começando com testes
-- Introdução
-- Por que utilizar testes automatizados?
-- Começando com testes
+- [Começando com testes](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/ed75f78f70043142a559b3360241090815d8a755) - commit [ed75f78f70043142a559b3360241090815d8a755]
 - Criando cenário de teste
 
 ## Aula 02 - Teste de unidade
