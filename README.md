@@ -6,7 +6,7 @@ Esse é meu código produzido durante o curso.
 
 ## Aula 01 - Começando com testes
 - [Começando com testes](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/ed75f78f70043142a559b3360241090815d8a755) - commit [ed75f78f70043142a559b3360241090815d8a755]
-- Criando cenário de teste
+- [Criando cenário de teste](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/b30cf4efe075df915c541f0bf44b143067abadd2) - commit [b30cf4efe075df915c541f0bf44b143067abadd2]
 
 ## Aula 02 - Teste de unidade
 - Teste de unidade XCTest
