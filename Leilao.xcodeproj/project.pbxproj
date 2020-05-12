@@ -18,6 +18,7 @@
 		03FA4B25209353AF0047D61B /* Lance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA4B24209353AF0047D61B /* Lance.swift */; };
 		03FA4B27209353CB0047D61B /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA4B26209353CB0047D61B /* Usuario.swift */; };
 		03FA4B29209354F50047D61B /* Leilao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FA4B28209354F50047D61B /* Leilao.swift */; };
+		66A35E9F246B070C00B10DAA /* AvaliadorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66A35E9E246B070C00B10DAA /* AvaliadorTests.swift */; };
 		A23F5A0F209CA483000E6525 /* Avaliador.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F5A0E209CA483000E6525 /* Avaliador.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		03FA4B24209353AF0047D61B /* Lance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lance.swift; sourceTree = "<group>"; };
 		03FA4B26209353CB0047D61B /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 		03FA4B28209354F50047D61B /* Leilao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leilao.swift; sourceTree = "<group>"; };
+		66A35E9E246B070C00B10DAA /* AvaliadorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvaliadorTests.swift; sourceTree = "<group>"; };
 		A23F5A0E209CA483000E6525 /* Avaliador.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avaliador.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,6 +126,7 @@
 			isa = PBXGroup;
 			children = (
 				03FA4B08209353290047D61B /* LeilaoTests.swift */,
+				66A35E9E246B070C00B10DAA /* AvaliadorTests.swift */,
 				03FA4B0A209353290047D61B /* Info.plist */,
 			);
 			path = LeilaoTests;
@@ -310,6 +313,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03FA4B09209353290047D61B /* LeilaoTests.swift in Sources */,
+				66A35E9F246B070C00B10DAA /* AvaliadorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
