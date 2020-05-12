@@ -9,7 +9,7 @@ Esse é meu código produzido durante o curso.
 - [Criando cenário de teste](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/b30cf4efe075df915c541f0bf44b143067abadd2) - commit [b30cf4efe075df915c541f0bf44b143067abadd2]
 
 ## Aula 02 - Teste de unidade
-- Teste de unidade XCTest
+- [Teste de unidade XCTest](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/d9d03f04c2dfa6c234824f752b8907c98bed81e8) - commit [d9d03f04c2dfa6c234824f752b8907c98bed81e8]
 - Escrevendo testes de unidade
 - Praticando testes de unidade
 
