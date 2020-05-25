@@ -11,7 +11,7 @@ Esse é meu código produzido durante o curso.
 ## Aula 02 - Teste de unidade
 - [Teste de unidade XCTest](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/d9d03f04c2dfa6c234824f752b8907c98bed81e8) - commit [d9d03f04c2dfa6c234824f752b8907c98bed81e8]
 - [Escrevendo testes de unidade](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/aefe54a1eaf955223b011d87362576c4b862bc09) - commit [aefe54a1eaf955223b011d87362576c4b862bc09]
-- Praticando testes de unidade
+- [Praticando testes de unidade](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/a3dea82239645ce91d690f191f8ab1c15f541145) - commit [a3dea82239645ce91d690f191f8ab1c15f541145]
 
 ## Aula 03 - TDD - Test Driven Development
 - Começando com TDD
