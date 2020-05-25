@@ -14,7 +14,7 @@ Esse é meu código produzido durante o curso.
 - [Praticando testes de unidade](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/a3dea82239645ce91d690f191f8ab1c15f541145) - commit [a3dea82239645ce91d690f191f8ab1c15f541145]
 
 ## Aula 03 - TDD - Test Driven Development
-- Começando com TDD
+- [Começando com TDD](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/a0054edce3c4a3d6d361121c7e25066cb47b0d82) - commit [a0054edce3c4a3d6d361121c7e25066cb47b0d82]
 - Refatorando o código
 
 ## Aula 04 - Praticando TDD
