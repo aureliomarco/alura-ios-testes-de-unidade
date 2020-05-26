@@ -24,6 +24,5 @@ Esse é meu código produzido durante o curso.
 ## Aula 05 - Qualidade dos testes
 - [Qualidade dos testes](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/54610fa80ba475f2bcb0377750107000b8233e52) - commit [54610fa80ba475f2bcb0377750107000b8233e52]
 - [Trabalhando com Test Data Builder](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/4100ac83bc5c9abd0a2b5285508912891c4444a1) - commit [4100ac83bc5c9abd0a2b5285508912891c4444a1]
-- Testando exceções
-- Conclusão
+- [Testando exceções](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/73a2e915866565d3f483b205ecae45998f952873) - commit [73a2e915866565d3f483b205ecae45998f952873]
 
