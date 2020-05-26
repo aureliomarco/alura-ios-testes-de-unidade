@@ -22,7 +22,7 @@ Esse é meu código produzido durante o curso.
 - [TDD Green](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/0f5d64c0bd7740683ba8bacb693d082fe86631b7) - commit [0f5d64c0bd7740683ba8bacb693d082fe86631b7]
 
 ## Aula 05 - Qualidade dos testes
-- Qualidade dos testes
+- [Qualidade dos testes](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/54610fa80ba475f2bcb0377750107000b8233e52) - commit [54610fa80ba475f2bcb0377750107000b8233e52]
 - Trabalhando com Test Data Builder
 - Testando exceções
 - Conclusão
