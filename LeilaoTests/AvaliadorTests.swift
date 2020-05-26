@@ -53,14 +53,14 @@ class AvaliadorTests: XCTestCase {
     }
     
     func testDeveEncontrarOsTresMaioresLances() {
-        let leilao = Leilao(descricao: "Playstation 4")
-        leilao.propoe(lance: Lance(joao ?? Usuario(nome: ""), 300.0))
-        leilao.propoe(lance: Lance(maria ?? Usuario(nome: ""), 400.0))
-        leilao.propoe(lance: Lance(joao ?? Usuario(nome: ""), 500.0))
-        leilao.propoe(lance: Lance(maria ?? Usuario(nome: ""), 600.0))
+        let leilao = CriadorDeLeilao().para(descricao: "Playstation 4")
+            .lance(joao ?? Usuario(nome: ""), 300.0)
+            .lance(maria ?? Usuario(nome: ""), 400.0)
+            .lance(joao ?? Usuario(nome: ""), 500.0)
+            .lance(maria ?? Usuario(nome: ""), 600.0)
+            .constroi()
         
         leiloeiro?.avalia(leilao: leilao)
-        
         let listaLances = leiloeiro?.tresMaiores()
         
         XCTAssertEqual(3, listaLances?.count)
