@@ -18,7 +18,7 @@ Esse é meu código produzido durante o curso.
 - [Refatorando o código](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/624775ccf12f7f5f7375e0aac6e4cbe19172c6a5) - commit [624775ccf12f7f5f7375e0aac6e4cbe19172c6a5]
 
 ## Aula 04 - Praticando TDD
-- TDD Red
+- [TDD Red](https://github.com/aureliomarco/alura-ios-testes-de-unidade-tdd/commit/5f7ba0493d065929f5e909d02497057cce070376) - commit [5f7ba0493d065929f5e909d02497057cce070376]
 - TDD Green
 
 ## Aula 05 - Qualidade dos testes
